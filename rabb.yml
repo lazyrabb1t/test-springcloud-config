@@ -7,7 +7,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: rabb-dev
+    name: rabb-dev-change
 ---
 server:
   port: 16001
